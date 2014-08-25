@@ -1,0 +1,40 @@
+body {
+  padding:0; margin: 0;
+  font-family: Courier;
+  text-align: center;
+  color: black;
+  margin-left: 100px;
+  margin-right: 100px;
+  background-image: url(background2.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: cover;
+  font-size: 25px;
+  margin-top: 30px;
+}
+pre {
+  color: #003333;
+  font-size: 16px;
+  font-family: Courier;
+}
+.translucent {
+  opacity: 0.9;
+  filter: alpha(opacity = 40); /* For IE */
+}
+.rotate {
+  ms-transform: rotate(7deg); /* IE 9 */
+  webkit-transform: rotate(7deg); /* Chrome, Safari, Opera */
+  transform: rotate(7deg);
+}
+.button2 {
+  color: #339999;
+  padding: 25px;
+  font-family: Courier;
+  font-size: 20px;
+}
+.button3 {
+  color: #339999;
+  padding: 17px;
+  font-family: Courier;
+  font-size: 20px;
+}

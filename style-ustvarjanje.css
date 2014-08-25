@@ -1,0 +1,36 @@
+body {
+  padding: 0; margin: 0;
+  font-family: Courier;
+  text-align: center;
+  margin-left: 150px;
+  margin-right: 90px;
+  margin-top: 60px;
+  background-image: url(background2.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: cover;
+}
+a {
+  text-decoration: none;
+}
+.first {
+  margin-top: 60px;
+}
+.second {
+  margin-top: 75px;
+  margin-left: -14px;
+}
+.button {
+  color: #339999;
+  padding: 17px;
+  font-family: Courier;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.button3 {
+  color: #339999;
+  padding: 17px;
+  font-family: Courier;
+  font-size: 20px;
+}
